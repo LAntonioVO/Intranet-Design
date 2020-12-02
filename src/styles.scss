@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+body{
+    background: url("https://intranet.itesa.edu.mx/img/body-back.png") repeat;
+}
+footer {
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    font-size: 13px;
+    ul{
+        list-style-type: none;
+        padding-left: 0;
+    }
+}
